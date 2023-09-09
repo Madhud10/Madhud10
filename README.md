@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhud10
 - 👀 I’m interested in Java and C language
-- 🌱 I’m currently learning Matlab
+- 🌱 I’m currently learning embedded C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... madhumithads10@gmail.com I
 
